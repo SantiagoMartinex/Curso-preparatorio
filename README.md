@@ -1,2 +1,1 @@
-# Curso-preparatorio
-Este es un repositorio de prueba del modulo dos de mi estudio
+Este es un proyecto de como crear un repositotio y clonarlo desde github a mi computadora 
